@@ -55,9 +55,6 @@ fragmentation = 'downhill'
 
 act_region ='SPoCA21717'
 
-bottom_left = [-221,-430] 
-top_right = [-170,-387]
-
 
 # In[ ]:
 
